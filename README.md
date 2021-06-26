@@ -1,0 +1,2 @@
+# GapminderDataAnalysis
+The R script included compiles notes and code from spring 2020 lessons and assignments on data visualization and wrangling for the HarvardX Data Science Professional Certificate program. Reading Gapminder Foundation data, it visualizes vital and economic trends from the mid 20th to early 21st century across multiple countries. Different versions of the dataset are rehsaped for the code to effectively interpret it. Select visualization samples are included as separate files.
